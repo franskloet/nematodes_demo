@@ -66,9 +66,8 @@ optimizer = dict(lr = 0.02/8)
 lr_config = dict(warmup = None)
 log_config = dict(interval=10)         
 
-evaluation = dict(metric = ['bbox'],
-                interval = 10)
-checkpoint_config = dict(interval = 10)
+evaluation = dict(metric = ['bbox'],interval = 10)
+checkpoint_config = dict(interval = 100)
 # classes = ('Juvenile',)
 classes = ('Hatched', 'Unhatched', 'Juvenile')
 
