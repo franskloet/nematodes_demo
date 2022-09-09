@@ -19,4 +19,4 @@ ultimately learn to count/predict nematodes, the eggs it hatched from and unhatc
 
 
 ## Example of a prediction
-![demo classification]<img src="./demo_predict.png" width="400" height="400">
+<img src="./demo_predict.png" width="400" height="400">
