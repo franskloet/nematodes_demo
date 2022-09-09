@@ -15,4 +15,4 @@ ultimately learn to count/predict nematodes, the eggs it hatched from and unhatc
 - **train_model.ipynb** the main notebook that updates existing network and train new images with very limited number of samples
 - **predict.ipynb** a notebook to demonstrate the prediction using existing network
 - **MMDet_Tutorial.ipynb** the original notebook from the MMdetection library
- 
+- **DSC_DATA_AUG_test.ipynb** initial version of augmenting data
