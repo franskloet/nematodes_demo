@@ -8,3 +8,5 @@
 - Frans van der Kloet
 
 some python notebooks to update existing mm detector networks
+
+## open **predict.ipynb** and click on colab icon to run. 
