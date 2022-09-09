@@ -18,4 +18,5 @@ ultimately learn to count/predict nematodes, the eggs it hatched from and unhatc
 - **DSC_DATA_AUG_test.ipynb** initial version of augmenting data
 
 
-![demo classification](demo_predict.png)
+## Example of a prediction
+![demo classification]<img src="./demo_predict.png" width="400" height="400">
