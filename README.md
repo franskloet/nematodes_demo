@@ -16,3 +16,6 @@ ultimately learn to count/predict nematodes, the eggs it hatched from and unhatc
 - **predict.ipynb** a notebook to demonstrate the prediction using existing network
 - **MMDet_Tutorial.ipynb** the original notebook from the MMdetection library
 - **DSC_DATA_AUG_test.ipynb** initial version of augmenting data
+
+
+![demo classification](demo_predict.png)
