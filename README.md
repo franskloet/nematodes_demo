@@ -1,5 +1,5 @@
 # nematodes_demo, for the data science center away day
-some python scripts (notebooks) based on the MMdet tutorial to update existing mm detector coco networks by transfer learning to
+some python notebooks based on the MMdet tutorial to update existing mm detector coco networks by transfer learning to
 ultimately learn to count/predict nematodes, the eggs it hatched from and unhatched eggs from photos taken from petridishes.
 
 
@@ -11,4 +11,8 @@ ultimately learn to count/predict nematodes, the eggs it hatched from and unhatc
 - Frans van der Kloet
 
 
-## open **predict.ipynb** and click on colab icon to run. 
+## scripts
+- **train_model.ipynb** the main notebook that updates existing network and train new images with very limited number of samples
+- **predict.ipynb** a notebook to demonstrate the prediction using existing network
+- **MMDet_Tutorial.ipynb** the original notebook from the MMdetection library
+ 
